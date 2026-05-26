@@ -162,7 +162,13 @@ Input (URL or Raw Text)
 
 ## 👥 Contributors
 
-- NLP Group Assignment — [Your University / Course Name]
+- NLP Group 20 (University Malaya)
+Laila
+Iman
+Serena
+Damia
+Uswatun
+Mahbub
 
 ---
 
