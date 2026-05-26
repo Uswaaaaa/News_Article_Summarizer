@@ -152,7 +152,7 @@ Input (URL or Raw Text)
 ## ⏱️ Expected Runtime
 
 | Environment | Per Summary |
-|---|---|---|
+|---|---|
 | Local CPU | ~5–10 min |
 | Local GPU | ~1–2 min |
 | Colab CPU | ~5–10 min |
