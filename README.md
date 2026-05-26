@@ -22,7 +22,7 @@ An abstractive news summarization web app built with **Streamlit** and **Faceboo
 NLP_News_Summarizer/
 ├── app.py                        # Streamlit UI
 ├── model.py                      # Full NLP pipeline & BART model
-├── Copy_of_NLP_GROUP_ASSIGNMENT.ipynb  # Original Colab notebook
+├── NLP_GROUP_ASSIGNMENT.ipynb  # Original Colab notebook
 ├── requirements.txt              # All dependencies
 ├── .gitignore                    # Files excluded from Git
 └── README.md                     # This file
