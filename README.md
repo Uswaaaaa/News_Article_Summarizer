@@ -151,25 +151,26 @@ Input (URL or Raw Text)
 
 ## ⏱️ Expected Runtime
 
-| Environment | First Load | Per Summary |
+| Environment | Per Summary |
 |---|---|---|
-| Local CPU | ~1–2 min | ~5–10 min |
-| Local GPU | ~30 sec | ~1–2 min |
-| Colab CPU | ~2–3 min | ~5–10 min |
-| Colab T4 GPU | ~30 sec | ~30–60 sec |
+| Local CPU | ~5–10 min |
+| Local GPU | ~1–2 min |
+| Colab CPU | ~5–10 min |
+| Colab T4 GPU | ~30–60 sec |
 
 ---
 
 ## 👥 Contributors
 
 - NLP Group 20 (University Malaya)
+```
 Laila
 Iman
 Serena
 Damia
 Uswatun
 Mahbub
-
+```
 ---
 
 ## 📄 License
