@@ -1,0 +1,10 @@
+streamlit
+trafilatura
+requests
+beautifulsoup4
+contractions
+nltk
+transformers
+torch
+rouge_score
+pyngrok
